@@ -1,0 +1,5 @@
+numpy==2.2.2
+rogues==1.0.0
+scipy==1.15.1
+pytest
+pytest-xdist
